@@ -2,6 +2,7 @@
 
 ## 1. Introduction
 Understanding sales performance, customer behavior, and product trends is crucial for growth and profitability in today’s competitive business environment. This analysis explores the sales data of BrightMart, a multinational retail company, from 2011 to 2016 through a structured data transformation, modeling, and visualization approach, key insights were derived to enhance sales performance and customer engagement.
+
 ---
 
 ## 2. Objectives
@@ -62,62 +63,62 @@ The analysis focused on **key performance indicators (KPIs)** and deeper insight
 - **Average Revenue per Customer:** $11,562
 
 ### **Revenue Growth Analysis**
-- Revenue continuously increased and **peaked in 2015 at $22.4M** before a slight decline to **$19.7M in 2016**.
-- The strongest growth period was **2013–2015**, indicating effective sales expansion.
+- Revenue continuously increased and peaked in 2015 at $22.4M before a slight decline to $19.7M in 2016.
+- The strongest growth period was 2013–2015, indicating effective sales expansion.
 
 ### **Customer Demographics**
-- The majority of customers fall within **ages 25–34 (3,441) and 35–44 (2,778)**.
-- Gender distribution is nearly equal: **4,066 female customers vs. 4,166 male customers**.
+- The majority of customers fall within ages 25–34 (3,441) and 35–44 (2,778).
+- Gender distribution is nearly equal: 4,066 female customers vs. 4,166 male customers.
 
 ### **Regional Sales Performance**
-- **United States** leads with **$30.8M revenue** and **2,358 customers**.
-- **Australia** follows with **$25.4M revenue** and **1,849 customers**.
-- **UK has the highest revenue per customer ($17,087)**, followed by **Canada ($12,015)** but both have the **lowest number of customers** at **649 and 667** respectively.
+- United States leads with $30.8M revenue and 2,358 customers.
+- Australia follows with $25.4M in revenue and 1,849 customers.
+- The UK has the highest revenue per customer ($17,087), followed by Canada ($12,015) but both have the lowest number of customers at 649 and 667 respectively.
 
 ### **Product Performance Analysis**
-- **Mountain-200** and **Road-150** models are the **most profitable**.
-- **Accessories** have the highest **profit margin (62.6%)**.
+- Mountain-200 and Road-150 models are the most profitable.
+- Accessories have the highest profit margin (62.6%).
 ---
 
 ## 7. Key Insights and Recommendations
 
 ### **Key Insights**
 #### **Revenue and Profitability**
-1. Strong revenue growth from **$10.1M (2011) to $22.4M (2015)**, with a slight dip to **$19.7M (2016)**.
-2. Healthy profit margins (**44.2%**) driven by high-margin product categories.
-3. **Accessories** lead in profitability (**62.6% margin**), while **Bikes generate the most revenue ($69.3M)**.
+1. Strong revenue growth from $10.1M (2011) to $22.4M (2015), with a slight dip to $19.7M (2016).
+2. Healthy profit margins (44.2%) driven by high-margin product categories.
+3. Accessories lead in profitability (62.6% margin), while Bikes generate the most revenue ($69.3M).
 
 #### **Product Performance**
-1. **Mountain-200** and **Road-150** series dominate sales.
-2. The **Mountain-200 Black, 38 variant** alone brought in **$1.7M in profit**.
+1. Mountain-200 and Road-150 series dominate sales.
+2. The Mountain-200 Black, 38 variant alone brought in $1.7M in profit.
 
 #### **Customer Demographics**
-1. The majority of customers fall into **25–34 (3,441 customers) and 35–44 (2,778 customers) age groups**.
-2. Balanced gender distribution: **4,066 female customers vs. 4,166 male customers**.
+1. The majority of customers fall into 25–34 (3,441 customers) and 35–44 (2,778 customers) age groups.
+2. Balanced gender distribution: 4,066 female customers vs. 4,166 male customers.
 
 #### **Geographic Distribution**
-1. **United States** leads in revenue (**$30.8M, 2,358 customers**).
-2. The **United Kingdom** has the highest **revenue per customer ($17,087)**.
-3. **Canada** shows **potential for improvement**, with similar customer numbers to the UK but lower revenue per customer.
+1. United States leads in revenue ($30.8M, 2,358 customers).
+2. The United Kingdom has the highest revenue per customer ($17,087).
+3. Canada shows potential for improvement, with similar customer numbers to the UK but lower revenue per customer.
 
 ### **Recommendations**
 #### **Product Strategy**
-- Expand **high-margin accessories** with **bike-specific bundles**.
-- Phase out **underperforming bike models**.
-- Invest in **size-specific features** based on sales data.
+- Expand high-margin accessories with bike-specific bundles.
+- Phase out underperforming bike models.
+- Invest in size-specific features based on sales data.
 
 #### **Market Development**
-- Investigate **UK’s higher revenue per customer** for potential best practices.
-- Develop **targeted marketing campaigns** for the **25–44 age group**.
-- Improve strategies for **Canada**, which has untapped potential.
+- Investigate UK’s higher revenue per customer for potential best practices.
+- Develop targeted marketing campaigns for the 25–44 age group.
+- Improve strategies for Canada, which has untapped potential.
 
 #### **Customer Engagement**
-- Implement a **loyalty program targeting top spenders**.
-- Create **age-specific product bundles** to enhance value propositions.
-- Develop **retention programs** for older demographics to expand customer lifetime value.
+- Implement a loyalty program targeting top spenders.
+- Create age-specific product bundles to enhance value propositions.
+- Develop retention programs for older demographics to expand customer lifetime value.
 ---
 
 ## 8. Conclusion
-BrightMart’s sales data reveals a **thriving business with strong revenue and profit margins**. The insights gained from this analysis highlight key opportunities for growth, including **product diversification, targeted marketing, and regional strategy optimization**. By leveraging these findings, BrightMart can continue to refine its **product offerings and marketing efforts**, positioning itself for **sustained success** in the competitive retail industry.
+BrightMart’s sales data reveals a thriving business with strong revenue and profit margins. The insights gained from this analysis highlight key opportunities for growth, including product diversification, targeted marketing, and regional strategy optimization. By leveraging these findings, BrightMart can continue to refine its product offerings and marketing efforts, positioning itself for sustained success in the competitive retail industry.
 
 ---
